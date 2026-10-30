@@ -128,7 +128,7 @@ The LFB is one of the world's largest firefighting and rescue organisations, pro
 ## Repository Structure
 ```
 ├── README.md
-├── data/        incident and mobilisation datasets
+├── data/        incident and mobilisation datasets (first 1000 row data sample)
 ├── report/      Fire & Rescue Service 2023 2025 inspection report
 └── images/      dashboard and story screenshots
 ```
